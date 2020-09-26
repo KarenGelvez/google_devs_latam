@@ -1,0 +1,4 @@
+#Fri Sep 04 13:01:27 COT 2020
+base.0=/home/lisbeth/Documents/Projects/Flutter/google_devs_latam/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
